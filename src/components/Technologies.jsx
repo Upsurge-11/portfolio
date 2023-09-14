@@ -41,7 +41,7 @@ const Technologies = () => {
     {
       id: 5,
       src: tailwind,
-      title: "TailwindCSS",
+      title: "Tailwind",
       style: "shadow-sky-400",
     },
     {
