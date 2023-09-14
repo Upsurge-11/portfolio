@@ -27,7 +27,7 @@ const NavBar = () => {
     },
   ];
   return (
-    <div className="flex justify-between items-center w-full h-20 px-4 text-slate-200 bg-slate-800 fixed">
+    <div className="flex justify-between items-center w-full h-20 px-4 text-slate-300 bg-black fixed">
       <div>
         <a
           href="/Arghyadeep_Resume.pdf"

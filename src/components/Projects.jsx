@@ -48,7 +48,7 @@ const Projects = () => {
   return (
     <div
       name="projects"
-      className="bg-gradient-to-b from-slate-900 via-slate-800 to-slate-400 w-full text-slate-200 md:h-fit"
+      className="bg-gradient-to-b from-black to-gray-800 w-full text-slate-300 md:h-fit"
     >
       <div className="max-w-screen-lg p-10 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
